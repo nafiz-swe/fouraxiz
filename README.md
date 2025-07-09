@@ -115,4 +115,19 @@ Contacts Blade update
 My name is Nafizul Islam. I have completed my BSc in Software Engineering from Daffodil International University in 2023.
 
 ---
+<<<<<<< HEAD
+=======
+
+# 📢 Interview Task Details
+**Position:** Intern – WordPress/Laravel Developer  
+**Platform:** BD Jobs Fair – 21 May 2025  
+**Location:** KBI, Farmgate, Dhaka
+
+> You have been shortlisted for the position of Intern WordPress/Laravel Developer through the BD Jobs Fair – 2025. As part of the interview process, please design the front page of our site (https://fouraxiz.com) targeted for our USA office. Submit your work link via email by **31/05/2025**. Top performers will be selected for the final appointment.  
+> Md. Alim Razi 
+> Motherboard & Admin  
+> 4axiz IT Ltd.  
+> 📧 admin@4axiz.com
+
+>>>>>>> 993f4b2 (last)
 ---
